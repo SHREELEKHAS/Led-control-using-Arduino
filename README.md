@@ -1,4 +1,4 @@
-### SHREE LEKHA.S 212223110052
+## SHREE LEKHA.S 212223110052
 # Led-control-using-Arduino
 
 ## AIM
