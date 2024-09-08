@@ -91,3 +91,4 @@ void loop(){
 ![Screenshot 2024-09-08 094819](https://github.com/user-attachments/assets/dc6c526b-1f28-42d2-b304-e29368cc5160)
 
 ## RESULT
+Thus the implementation of a system for LED control using an Arduino was verified successfully.
