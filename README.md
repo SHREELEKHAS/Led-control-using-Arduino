@@ -59,6 +59,7 @@ In the setup function, the pin mode for the LED and pushbutton pins are set usin
 * Weighing Machines </br>
 
 ## CIRCUIT DIAGRAM
+![Screenshot 2024-09-08 095552](https://github.com/user-attachments/assets/12a5dadf-6fa0-4269-b099-fb0f291753d9)
 
 ## PROGRAM
 ```
