@@ -1,4 +1,4 @@
-## SHREE LEKHA.S 212223110052
+### SHREE LEKHA.S 212223110052
 # Led-control-using-Arduino
 
 ## AIM
@@ -51,12 +51,12 @@ In the setup function, the pin mode for the LED and pushbutton pins are set usin
 ![image](https://github.com/anishkumar-Embedded/Led-control-using-Arduino/assets/71547910/8b4930b4-4040-46ab-9e2e-d3277559ae6f)
 
 ### Applications
-Interactive Light Display </br>
-Educational Game for Children </br>
-Home Automation </br>
-Security System Indicator </br>
-Emergency Signaling System </br>
-Weighing Machines </br>
+* Interactive Light Display </br>
+* Educational Game for Children </br>
+* Home Automation </br>
+* Security System Indicator </br>
+* Emergency Signaling System </br>
+* Weighing Machines </br>
 
 ## CIRCUIT DIAGRAM
 
