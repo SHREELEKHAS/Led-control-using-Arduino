@@ -1,3 +1,4 @@
+## SHREE LEKHA.S 212223110052
 # Led-control-using-Arduino
 
 ## AIM
@@ -60,7 +61,34 @@ Weighing Machines </br>
 ## CIRCUIT DIAGRAM
 
 ## PROGRAM
+```
+int bs0 = 0;
+int bs1 = 0;
+void setup(){
+  pinMode(13, OUTPUT);
+  pinMode(0, INPUT);
+  pinMode(2, INPUT);
+}
+void loop(){
+  bs0 = digitalRead(0);
+  bs1 = digitalRead(2);
+  if(bs0^bs1){
+    digitalWrite(13, HIGH);    
+  }
+  else{
+    digitalWrite(13,LOW);
+  }
+  
 
+}
+
+
+```
 ## OUTPUT
+## OFF
+![Screenshot 2024-09-08 094819](https://github.com/user-attachments/assets/9fd34d65-742a-4926-8852-fc16f15682ba)
+
+## ON
+![Screenshot 2024-09-08 094819](https://github.com/user-attachments/assets/dc6c526b-1f28-42d2-b304-e29368cc5160)
 
 ## RESULT
