@@ -5,12 +5,12 @@
 To design and implement a system for LED control using an Arduino microcontroller and a push button.
 
 ## COMPONENTS REQUIRED
-Arduino </br>
-Led </br>
-Resistance </br>
-Push button </br>
-Bread board </br>
-Jumber wire </br>
+* Arduino </br>
+* Led </br>
+* Resistance </br>
+* Push button </br>
+* Bread board </br>
+* Jumber wire </br>
 
 ## PROCEDURE
 Step 1 Connect all the componets as per the circut diagram </br>
