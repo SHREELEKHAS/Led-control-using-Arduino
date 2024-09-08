@@ -67,39 +67,42 @@ In the setup function, the pin mode for the LED and pushbutton pins are set usin
 
 
 ## CIRCUIT DIAGRAM
-![Screenshot 2024-09-08 095552](https://github.com/user-attachments/assets/12a5dadf-6fa0-4269-b099-fb0f291753d9)
+![Screenshot 2024-09-08 110209](https://github.com/user-attachments/assets/dd04af18-4e13-48c7-8fd0-016e4ecba14f)
 
 
 ## PROGRAM
 ```
-int bs0 = 0;
-int bs1 = 0;
+const int buttonPin = 2;
+const int ledPin = 13;
+int buttonState = 0;
 void setup(){
-  pinMode(13, OUTPUT);
-  pinMode(0, INPUT);
-  pinMode(2, INPUT);
+  pinMode(ledPin, OUTPUT);
+  pinMode(buttonPin, INPUT);
 }
 void loop(){
-  bs0 = digitalRead(0);
-  bs1 = digitalRead(2);
-  if(bs0^bs1){
-    digitalWrite(13, HIGH);    
+  buttonState = digitalRead(buttonPin);
+  if(buttonState  == HIGH){
+    digitalWrite(ledPin, HIGH);    
   }
   else{
-    digitalWrite(13,LOW);
+    digitalWrite(ledPin,LOW);
   }
   
+
 }
+
 ```
 
 
 ## OUTPUT
 ## OFF
-![Screenshot 2024-09-08 094832](https://github.com/user-attachments/assets/9b919f58-7647-4171-b19c-edef7cfd278f)
+![Screenshot 2024-09-08 105351](https://github.com/user-attachments/assets/910ae49d-cc16-440a-9df6-8d401e9fc05b)
+
 
 
 ## ON
-![Screenshot 2024-09-08 094819](https://github.com/user-attachments/assets/dc6c526b-1f28-42d2-b304-e29368cc5160)
+![Screenshot 2024-09-08 105339](https://github.com/user-attachments/assets/eda0dfe5-6d2c-4598-8f4f-2f9ae12d06a0)
+
 
 
 ## RESULT
