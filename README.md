@@ -84,7 +84,8 @@ void loop(){
 ```
 ## OUTPUT
 ## OFF
-![Screenshot 2024-09-08 094819](https://github.com/user-attachments/assets/9fd34d65-742a-4926-8852-fc16f15682ba)
+![Screenshot 2024-09-08 094832](https://github.com/user-attachments/assets/9b919f58-7647-4171-b19c-edef7cfd278f)
+
 
 ## ON
 ![Screenshot 2024-09-08 094819](https://github.com/user-attachments/assets/dc6c526b-1f28-42d2-b304-e29368cc5160)
