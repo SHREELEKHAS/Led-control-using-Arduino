@@ -1,4 +1,4 @@
-![Screenshot 2024-09-28 144220](https://github.com/user-attachments/assets/309ae8c8-f7f0-4984-80ae-9d2842c567a1)## NAME: SHREE LEKHA.S
+## NAME: SHREE LEKHA.S
 ## REGISTER NO.: 212223110052
 # Ex:01 Led control using Arduino
 
