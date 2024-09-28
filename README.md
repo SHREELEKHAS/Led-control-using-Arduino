@@ -1,5 +1,5 @@
-## SHREE LEKHA.S
-## 212223110052
+## NAME: SHREE LEKHA.S
+## REGISTER NO.: 212223110052
 # Ex:01 Led control using Arduino
 
 ## AIM
