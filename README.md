@@ -1,4 +1,4 @@
-## NAME: SHREE LEKHA.S
+![Screenshot 2024-09-28 144220](https://github.com/user-attachments/assets/309ae8c8-f7f0-4984-80ae-9d2842c567a1)## NAME: SHREE LEKHA.S
 ## REGISTER NO.: 212223110052
 # Ex:01 Led control using Arduino
 
@@ -103,7 +103,9 @@ void loop(){
 
 
 ## ON
-![Screenshot 2024-09-08 105339](https://github.com/user-attachments/assets/eda0dfe5-6d2c-4598-8f4f-2f9ae12d06a0)
+![Screenshot 2024-09-28 144220](https://github.com/user-attachments/assets/957f2c98-f908-4ff2-8585-7801b49db793)
+
+
 
 
 
