@@ -97,7 +97,8 @@ void loop(){
 
 ## OUTPUT
 ## OFF
-![Screenshot 2024-09-08 105351](https://github.com/user-attachments/assets/910ae49d-cc16-440a-9df6-8d401e9fc05b)
+![Screenshot 2024-09-28 144123](https://github.com/user-attachments/assets/98160f58-4bb8-4b72-b4c9-c49dba492f63)
+
 
 
 
